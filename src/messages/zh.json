@@ -118,6 +118,8 @@
     "taxiDesc": "车程约20-25分钟，白天费用250-300丹麦克朗，夜间/周末约300-350丹麦克朗。支持信用卡支付。",
     "rideshare": "网约车",
     "rideshareDesc": "使用 Uber 或 Bolt 应用叫车，价格比出租车低约20%，约200-280丹麦克朗。",
+    "fromAirport": "从哥本哈根机场",
+    "fromAirportDesc": "可乘坐地铁 M2 线直达 Nørreport 站（约15分钟），或乘坐区域火车、5C路公交车。地铁为最快捷的选择。",
     "fromStation": "从哥本哈根中央车站",
     "fromStationDesc": "乘地铁2号线或6号线到 Nørreport 站，出站步行5分钟。",
     "fromNyhavn": "从新港",

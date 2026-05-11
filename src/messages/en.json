@@ -118,6 +118,8 @@
     "taxiDesc": "Journey time: approx. 20-25 minutes. Cost: 250-300 DKK during the day, 300-350 DKK at night/weekends. Credit cards accepted.",
     "rideshare": "Rideshare",
     "rideshareDesc": "Use Uber or Bolt apps to book a ride. Prices are about 20% lower than taxis, approx. 200-280 DKK.",
+    "fromAirport": "From Copenhagen Airport",
+    "fromAirportDesc": "Take Metro Line M2 directly to Nørreport Station (approx. 15 minutes), or take the regional train or bus 5C. The metro is the fastest option.",
     "fromStation": "From Copenhagen Central Station",
     "fromStationDesc": "Take Metro Line 2 or 6 to Nørreport Station, walk 5 minutes from the exit.",
     "fromNyhavn": "From Nyhavn",
